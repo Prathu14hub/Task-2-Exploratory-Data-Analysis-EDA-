@@ -5,8 +5,7 @@ This project demonstrates the process of Exploratory Data Analysis (EDA) using t
 ---
 
 ## 🔗 Open in Google Colab
-
-[![Open In Colab](https://colab.research.google.com/drive/1YOgabtI5Xc7I8ccXXvirJ6SVPjX6M-9H?usp=sharing)
+https://colab.research.google.com/drive/1YOgabtI5Xc7I8ccXXvirJ6SVPjX6M-9H?usp=sharing
 
 
 ## 🎯 Objective
